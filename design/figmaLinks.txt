@@ -1,4 +1,4 @@
-(PT-BR)Links do Figma para prototipos de alta fidelidade.
+Links do Figma para prototipos de alta fidelidade.
 
 Dashboard do gestor:
  https://www.figma.com/file/vdOxAe1uo92wTuNMpBW21Z/Tela-Gestor?node-id=0%3A1
