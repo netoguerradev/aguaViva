@@ -25,7 +25,7 @@ O código Arduino do dispositivo encontra-se na pasta arduinoFlowSensor com nome
 ## Dashboard do gestor
 O dashboard foi construído em duas etapas, uma tela interativa mais simples para visualização do consumo em cada quarto e outro código utilizando python puro que conta
 com mais funcionalidadesm, para construção das telas, foi utilizada a biblioteca Tkinter que pode ser obtida através do comando: 
-´´´
+```
 $pip install tkinter
 ```
 A tela interativa está na pasta application com nome de dashboard_screen
